@@ -75,9 +75,9 @@ Welcome to my GitHub portfolio! I am a Data Scientist and Business Analytics Spe
 ```
 ---
 
-🎯 Contact
-Feel free to reach out for any queries or feedback:
-**Stefano Compagnone**
-📧 stefanocompagnone98@gmail.com
-📞 +1 617-251-3853
-🌐 LinkedIn Profile
+## 🎯 Contact
+Feel free to reach out for any queries or feedback:  
+**Stefano Compagnone**  
+📧 [Email Me](mailto:stefanocompagnone98@gmail.com)  
+🌐 [Connect on LinkedIn](https://linkedin.com/in/stefanocompagnone98)
+
